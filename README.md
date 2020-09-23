@@ -1,18 +1,35 @@
 ﻿<div align="center">
 
-## McAfee DAT Download - UPDATED!<br/>by JFV
+## McAfee DAT Download \- UPDATED\!
+
 
 </div>
 
 ### Description
 
 This code will automatically download and execute the McAfee SuperDAT. It will delete the old SuperDAT, copy the new SuperDAT from NAI's FTP server, and silently run the update.
-
+ 
 ### More Info
-
+ 
 The code will run until the file has been downloaded to your computer and run.
 
 Updated with the Function in it... Thanks for pointing that out!
+
+
+<span>             |<span>
+---                |---
+**Submitted On**   |
+**By**             |[JFV](https://github.com/Planet-Source-Code/PSCIndex/blob/master/ByAuthor/jfv.md)
+**Level**          |Intermediate
+**User Rating**    |4.7 (14 globes from 3 users)
+**Compatibility**  |VB 6\.0
+**Category**       |[Files/ File Controls/ Input/ Output](https://github.com/Planet-Source-Code/PSCIndex/blob/master/ByCategory/files-file-controls-input-output__1-3.md)
+**World**          |[Visual Basic](https://github.com/Planet-Source-Code/PSCIndex/blob/master/ByWorld/visual-basic.md)
+**Archive File**   |[](https://github.com/Planet-Source-Code/jfv-mcafee-dat-download-updated__1-43489/archive/master.zip)
+
+
+
+
 
 ### Source Code
 
